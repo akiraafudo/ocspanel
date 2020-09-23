@@ -126,7 +126,7 @@ service nginx restart
 #Install zip shigeno Script
 yum -y install zip unzip
 cd /home/vps/public_html
-wget https://github.com/akiraafudo/ocspanel/blob/master/akiraaOCSPanel.zip
+wget hhttps://raw.githubusercontent.com/akiraafudo/ocspanel/master/OCSPanelCentos6.zip
 unzip akiraaOCSPanel.zip
 rm -f akiraaOCSPanel.zip
 chown -R nginx:nginx /home/vps/public_html
