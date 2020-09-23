@@ -7,3 +7,6 @@ pls make sure port 85 is open before installation
 copy&paste on vps terminal
 
 wget https://github.com/akiraafudo/ocspanel/blob/master/install.sh
+
+
+original script and panel by: clrkz,shigenojay
