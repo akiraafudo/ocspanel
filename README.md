@@ -1,4 +1,3 @@
 OCS PANEL FOR VPN RESELLER
 
-
-OS: CENTOS 6.8
+centos 6.8
