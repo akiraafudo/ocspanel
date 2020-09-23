@@ -9,4 +9,4 @@ copy&paste on vps terminal
 wget https://github.com/akiraafudo/ocspanel/blob/master/install.sh
 
 
-original script and panel by: clrkz,shigenojay
+original script and panel by: hostingtermurah,clrkz,shigenojay
