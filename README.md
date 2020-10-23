@@ -10,3 +10,4 @@ yum -y update && yum -y install wget && wget https://raw.githubusercontent.com/a
 
 
 original script and panel by: hostingtermurah,clrkz,shigenojay
+modded by: akiraa22
